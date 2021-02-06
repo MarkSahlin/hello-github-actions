@@ -1,6 +1,8 @@
 name:"Hello Actions"
 
-author "octocat@github.com"
+description: "Greet someone"
+
+author: "sahlinmarkp@johndeere.com"
 
 
 

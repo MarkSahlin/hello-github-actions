@@ -1,3 +1,5 @@
+name: something cool bt no clue
+on: push
 jobs:
 
    build:
@@ -12,5 +14,5 @@ jobs:
            MY_NAME: "Mona"
     
 
-on: push
-name: something cool bt no clue
+
+

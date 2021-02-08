@@ -8,7 +8,7 @@ jobs:
       
      name: Hello world action
      
-     runs-on: ubunto-latest
+     runs-on: desktop
      
      steps:
        - uses: actions/checkout@v1

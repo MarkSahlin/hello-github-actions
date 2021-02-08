@@ -1,4 +1,4 @@
-name: something cool bt no clue
+name: Hello world action
 on: push
 jobs:
 

@@ -8,6 +8,8 @@ jobs:
       
      name: Hello world action
      
+     runs-on: ubunto-latest
+     
      steps:
        - uses: actions/checkout@v1
          
